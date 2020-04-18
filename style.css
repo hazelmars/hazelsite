@@ -1,0 +1,92 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: italic;
+  margin: 2em;
+  background: linear-gradient(white, grey);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 340vh
+}
+
+#wrapper {
+  margin: 5em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#wrapper2{
+  margin: 2em;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+h1 {
+  font-style: italic;
+  color: black;
+}
+
+p1{
+  font-style: italic;
+  color: black;
+}
+
+#commentBox{
+  background: rgb(255, 255, 255);
+  border: solid 1px;
+  margin: 10px;
+  padding: 10px;
+  padding-top: 10px;
+  padding-left: 10px
+}
+
+h3{
+   font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+h5{
+   font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+h6{
+   font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+h7{
+   font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+h8{
+   font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+h9{
+   font-style: italic;
+  color: black;
+  font-size: 20px
+}
+
+.navbar{
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left: 10px
+}
